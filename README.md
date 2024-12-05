@@ -14,7 +14,7 @@ Before running the setup script, make sure you have the following installed:
 1. Download the setup script:
 
 ```bash
-curl -O https://raw.githubusercontent.com/your-username/repo-name/main/setup-react-vite.sh
+curl -O https://raw.githubusercontent.com/applovervv/react-vite-auto/main/setup-react-vite.sh
 ```
 
 2. Make the script executable:
